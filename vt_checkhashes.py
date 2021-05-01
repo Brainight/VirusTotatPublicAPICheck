@@ -7,7 +7,7 @@ __version__ = '3.8.5'
 Check file hashes with VirusTotal API. 
 In order to execute this script succesfully you need to install the 'virustotal3' module.
 --> https://github.com/tr4cefl0w/virustotal3
-To know how to used it try -h or --help.
+To know how to use it try -h or --help.
 """
 import sys, getopt, csv
 from time import sleep
